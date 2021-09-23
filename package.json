@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "poll-manipulator",
+  "version": "1.0.0",
+  "description": "A CrowdSignal vote manipulator... or fraud... whatever you wanna call it",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Aaron Fillmore <aaronfillmore18@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@sentry/node": "^6.13.2",
+    "@sentry/tracing": "^6.13.2",
+    "puppeteer": "^10.4.0"
+  }
+}
