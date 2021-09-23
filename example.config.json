@@ -1,0 +1,7 @@
+{
+    "pollURL": "your_crowdsignal_poll_url", 
+    "pollUser": "example_#PDI_answer50277275",
+    "statusNotification": "Anotha' one",
+    "sleepNotification": "Waiting 20 seconds...",
+    "sentryDSN": "https://yourdsn.ingest.sentry.io/your-dsn"
+}
